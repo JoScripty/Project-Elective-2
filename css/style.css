@@ -97,6 +97,7 @@
   justify-content: center;
   background-color: #212121;
   z-index: 999;
+  overflow: hidden;
 }
 
 /*--------------------------------------------------------------
