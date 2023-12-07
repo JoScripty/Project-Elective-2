@@ -1,4 +1,7 @@
-var loader= document.getElementbyId("")
+var loader= document.getElementbyId("preload");
+window.addEventListener("load", function (){
+  loader.style.display= "none";
+});
 
 (function() {
   "use strict";
